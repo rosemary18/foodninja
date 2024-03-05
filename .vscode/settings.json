@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "/Users/seninselasa/Desktop/food_ninja/linux",
+    "files.autoSave": "onFocusChange",
+    "flutterStylizer": null,
+    "editor.formatOnSave": false,
+    "[dart]": {
+        "editor.formatOnSave": false,
+    },
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+}
